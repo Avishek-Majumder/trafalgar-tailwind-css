@@ -10,7 +10,8 @@ Ostad Module 14 Assignment - A responsive healthcare landing page built with Tai
 ---
 
 ## Live Demo & Repository
-- **Live Demo Link:** [https://avishek-majumder.github.io/trafalgar-tailwind-css/](https://avishek-majumder.github.io/trafalgar-tailwind-css/)
+- **Live Demo Link (Vercel):** [https://trafalgar-tailwind-css.vercel.app/](https://trafalgar-tailwind-css.vercel.app/)
+- **Live Demo Link (GitHub Pages):** [https://avishek-majumder.github.io/trafalgar-tailwind-css/](https://avishek-majumder.github.io/trafalgar-tailwind-css/)
 - **GitHub Repository:** [https://github.com/Avishek-Majumder/trafalgar-tailwind-css.git](https://github.com/Avishek-Majumder/trafalgar-tailwind-css.git)
 
 ---
@@ -63,8 +64,12 @@ Ostad Module 14 Assignment - A responsive healthcare landing page built with Tai
 
 ---
 
-## Deployment (GitHub Pages)
+## Deployment
 
+### Vercel
+- Hosted and deployed live on Vercel: [https://trafalgar-tailwind-css.vercel.app/](https://trafalgar-tailwind-css.vercel.app/)
+
+### GitHub Pages
 1. Go to repository **Settings** > **Pages**.
 2. Under **Branch**, select `main` and root `/`.
 3. Save to publish.
